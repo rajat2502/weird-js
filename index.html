@@ -14,29 +14,76 @@
       href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
       rel="stylesheet"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css"
+    />
   </head>
-  <body>
+  <body style="font-family: 'Poppins', sans-serif">
+    <a
+      class="github-fork-ribbon"
+      href="https://github.com/rajat2502/weird-js"
+      data-ribbon="Fork me on GitHub"
+      title="Fork me on GitHub"
+      target="_blank"
+      >Fork me on GitHub</a
+    >
     <header
       class="
         bg-gradient-to-r
-        from-green-300
+        from-green-400
         via-blue-500
         to-purple-600
         h-96
-        flex
+        flex flex-col
         justify-center
         items-center
+        relative
       "
     >
-      <h1
-        class="tracking-wider text-white text-6xl font-bold"
-        style="font-family: 'Poppins', sans-serif"
-      >
+      <h1 class="tracking-wider text-white text-5xl md:text-6xl font-bold">
         Weird-JS
       </h1>
+      <p class="m-4 text-xl text-white font-medium">
+        A list of some of the weirdest JavaScript code snippets &#x1F61C;
+      </p>
+      <div class="m-2 flex flex-wrap">
+        &nbsp;
+        <a
+          class="github-button"
+          href="https://github.com/rajat2502/weird-js"
+          data-icon="octicon-star"
+          data-size="large"
+          data-show-count="true"
+          target="_blank"
+          aria-label="Star rajat2502/weird-js on GitHub"
+          >Star</a
+        >&nbsp;&nbsp;
+        <a
+          class="github-button"
+          href="https://github.com/rajat2502/weird-js/fork"
+          data-icon="octicon-repo-forked"
+          data-size="large"
+          data-show-count="true"
+          target="_blank"
+          aria-label="Fork rajat2502/weird-js on GitHub"
+          >Fork</a
+        >&nbsp;&nbsp;
+        <a
+          class="github-button"
+          href="https://github.com/rajat2502"
+          data-size="large"
+          data-show-count="true"
+          target="_blank"
+          aria-label="Follow @rajat2502 on GitHub"
+          >Follow @rajat2502</a
+        >&nbsp;
+      </div>
     </header>
 
-    <div id="content" class="m-4"></div>
+    <div id="content" class="p-4 bg-gray-100"></div>
+
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
     <script src="index.js"></script>
   </body>
 </html>
