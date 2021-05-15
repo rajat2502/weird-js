@@ -9,6 +9,11 @@
       href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
       rel="stylesheet"
     />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <header
@@ -23,9 +28,15 @@
         items-center
       "
     >
-      <h1 class="text-white text-6xl font-medium">weird-js</h1>
+      <h1
+        class="tracking-wider text-white text-6xl font-bold"
+        style="font-family: 'Poppins', sans-serif"
+      >
+        Weird-JS
+      </h1>
     </header>
 
+    <div id="content" class="m-4"></div>
     <script src="index.js"></script>
   </body>
 </html>
