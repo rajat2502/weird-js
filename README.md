@@ -3,9 +3,10 @@
 JavaScript is a strange language with so many weird yet interesting parts (PS: I love JavaScript 💚). <br/>
 This website lists a collection of some of the weirdest JavaScript code snippets 😆
 
-### Important Note
+### Important Notes
 
-This project is made for fun only, although some of these snippets can appear in your job interview 😛
+- This project is made for fun only, although some of these snippets can appear in your job interview 😛
+- The project is still under progress, I will be some new features and a lot of code snippets 🙃
 
 ### Technologies Used
 
