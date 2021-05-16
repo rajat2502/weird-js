@@ -5,8 +5,8 @@ This website lists a collection of some of the weirdest JavaScript code snippets
 
 ### Important Notes
 
-- This project is made for fun only, although some of these snippets can appear in your job interview 😛
-- The project is still under progress, I will be some new features and a lot of code snippets 🙃
+- This project is made for fun only, although some of these code snippets can appear in your next job interview 😛
+- The project is still under progress, I will be adding some new features and a lot of code snippets 🙃
 
 ### Technologies Used
 
