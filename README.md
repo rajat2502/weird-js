@@ -12,7 +12,7 @@ This website lists a collection of some of the weirdest JavaScript code snippets
 
 - HTML & JavaScript
 - TailwindCSS
-- Netlify.com (Hosting)
+- Netlify.com (For Hosting)
 - Carbon.now.sh (For hosting code snippets)
 
 ### ScreenShot(s)
